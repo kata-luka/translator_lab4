@@ -1,0 +1,20 @@
+program
+    a = 2
+    b = 1
+    c = 0
+
+    if a<=b then
+        if b > 0 then
+            k = 22
+        fi
+    else
+        d = 6
+    fi
+end
+
+
+
+
+
+
+
